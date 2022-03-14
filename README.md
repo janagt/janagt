@@ -1,7 +1,6 @@
-## 🤍 Sobre mim
+## Olá, tudo bem?
 
-<p>• Oii, tudo bem? Sou a Janaina Teixeira e sou formada em <strong>design gráfico</strong>.</p>
-<p>• Estudante Dev Full Stack (Java Jr) no bootcamp da <strong>Generation Brasil</strong>.</p>
+<p>Me chamo Janaina Teixeira e sou formada em <strong>Design Gráfico</strong>, onde atualmente, sou estudante Dev Full Stack (Java Jr) no bootcamp da <strong>Generation Brasil</strong>. Você pode me achar nas seguintes redes sociais: </p>
 
 <p>
   <a href="https://www.instagram.com/janagt/" alt="Instagram">
@@ -12,10 +11,16 @@
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=fffffff&link=https://www.linkedin.com/in/janainateixeira"/>
   </a>
   
-  <a href="https://mailto:janainag.teixeira@outlook.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=https://mailto:janainag.teixeira@outlook.com"/>
+  <a href="mailto:janainag.teixeira@outlook.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=mailto:janainag.teixeira@outlook.com"/>
+  </a>
+  
+  <a href="https://www.behance.net/janainateixeira" alt="Behance">
+    <img src="https://img.shields.io/badge/-Behance-316BD4?style=for-the-badge&logo=Behance&logoColor=ffffff&link=https://www.behance.net/janainateixeira"/>
   </a>
 </p>
+
+##
 
 ### Habilidades:
 
@@ -26,6 +31,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  
+##
 
 <div align="center">
   <a href="https://github.com/duribeiro">
