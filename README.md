@@ -35,10 +35,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=janagt&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janagt&theme=graywhite&hide_border=false&&layout=compact"/>
-  </a>
+  <a href="https://github.com/janagt">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=janagt&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janagt&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 
@@ -56,4 +55,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+  <a href="https://github.com/janagt">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=janagt&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janagt&theme=graywhite&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 -->
