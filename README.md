@@ -1,26 +1,45 @@
-## Olá, tudo bem?
+<p align="">
+<a target="_blank" rel="noopener noreferrer" href="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b76116245d6480e011aa30045f8954129ea142d8e2e95&rid=giphy.gif&ct=g"><img align="right" width="150" src="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b76116245d6480e011aa30045f8954129ea142d8e2e95&rid=giphy.gif&ct=g" data-canonical-src="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" style="max-width: 100%;"></a>
+</p>
+<br>
+<p align="left"> 
+ 🖖 Olá, tudo bom? Me chamo Janaina. Sou <strong>Desenvolvedora Full Stack Java Jr.</strong> e <strong>Designer Gráfico</strong>.
+</p>
 
-<p>Me chamo Janaina Teixeira e sou formada em <strong>Design Gráfico</strong>, onde atualmente, sou estudante Dev Full Stack (Java Jr) no bootcamp da <strong>Generation Brasil</strong>. Você pode me achar nas seguintes redes sociais: </p>
+<p align="left">
+ ☕ Habilidades: <strong>Java, HTML, CSS, JavaScript, Angular e TypeScript.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Vercel, Heroku, Eclipse, Springboot, Git/GitHub e Pacote Adobe (PS e AI).</strong>
+</p>
+
+
+<br>
+
+
+
+<!--<p>Me chamo Janaina Teixeira e sou formada em <strong>Design Gráfico</strong>, onde atualmente, sou estudante Dev Full Stack (Java Jr) no bootcamp da <strong>Generation Brasil</strong>. Você pode me achar nas seguintes redes sociais: </p>-->
 
 <p>
   <a href="https://www.instagram.com/janagt/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/janagt"/>
+    <img src="https://img.shields.io/badge/-Instagram-EDD8DD?style=for-the-badge&logo=Instagram&logoColor=333333&link=https://www.instagram.com/janagt"/>
   </a>
   
   <a href="https://www.linkedin.com/in/janaina-teixeira" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=fffffff&link=https://www.linkedin.com/in/janainateixeira"/>
+    <img src="https://img.shields.io/badge/-Linkedin-EDD8DD?style=for-the-badge&logo=Linkedin&logoColor=333333&link=https://www.linkedin.com/in/janainateixeira"/>
   </a>
   
   <a href="mailto:janainag.teixeira@outlook.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=mailto:janainag.teixeira@outlook.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-EDD8DD?style=for-the-badge&logo=Gmail&logoColor=333333&link=mailto:janainag.teixeira@outlook.com"/>
   </a>
   
   <a href="https://www.behance.net/janainateixeira" alt="Behance">
-    <img src="https://img.shields.io/badge/-Behance-316BD4?style=for-the-badge&logo=Behance&logoColor=ffffff&link=https://www.behance.net/janainateixeira"/>
+    <img src="https://img.shields.io/badge/-Behance-EDD8DD?style=for-the-badge&logo=Behance&logoColor=333333&link=https://www.behance.net/janainateixeira"/>
   </a>
 </p>
 
-##
+<!-- ##
 
 ### Habilidades:
 
@@ -30,7 +49,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)-->
   
 ##
 
