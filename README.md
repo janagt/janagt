@@ -1,21 +1,13 @@
-<p align="">
 <a target="_blank" rel="noopener noreferrer" href="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b76116245d6480e011aa30045f8954129ea142d8e2e95&rid=giphy.gif&ct=g"><img align="right" width="150" src="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b76116245d6480e011aa30045f8954129ea142d8e2e95&rid=giphy.gif&ct=g" data-canonical-src="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" style="max-width: 100%;"></a>
-</p>
-<br>
-<p align="left"> 
- 🖖 Olá, tudo bom? Me chamo Janaina. Sou <strong>Desenvolvedora Full Stack Java Jr.</strong> e <strong>Designer Gráfico</strong>.
-</p>
-
-<p align="left">
- ☕ Habilidades: <strong>Java, HTML, CSS, JavaScript, Angular e TypeScript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Vercel, Heroku, Eclipse, Springboot, Git/GitHub e Pacote Adobe (PS e AI).</strong>
-</p>
 
 
-<br>
+<p align="left">✨ Olá, tudo bom? Me chamo Janaina. Sou <strong>Desenvolvedora Full Stack Java Jr.</strong> e <strong>Designer Gráfico</strong>.</p>
+
+<p align="left">☕ Habilidades: <strong>Java, HTML, CSS, JavaScript, Angular e TypeScript.</strong></p>
+
+<p align="left">💻 Ferramentas: <strong>VS Code, Figma, Trello, Vercel, Heroku, Eclipse, Springboot, Git/GitHub e Pacote Adobe (PS e AI).</strong></p>
+
+
 
 
 
